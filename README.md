@@ -1,0 +1,1 @@
+Little discord bot for 7DS Grand Cross game
