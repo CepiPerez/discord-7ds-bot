@@ -43,7 +43,7 @@ client.on('message', message => {
         Object.entries(images).forEach(([key, value]) => {
 
             if (value['name'].toLowerCase().includes(nombre) || key.startsWith(nombre) ) {
-                found.push( '!' + key + ' - [' + value['title'] + '] ' + value['name']);
+                found.push( '!' + key + ' - [' + value['fullname'] + '] ' + value['name']);
                 tempEntry = key;
             }
 
@@ -52,8 +52,8 @@ client.on('message', message => {
         console.log('found: ' + found.length);
         console.log('tempEntry: ' + tempEntry);
 
-        if (found.length > 1) {
-            var text = 'Found ' + found.length + ' characters for "' + nombre + '"\n```';
+        if (found.length > 1 && found[0]!=nombre) {
+            var text = 'Se encontraron ' + found.length + ' personajes para "' + nombre + '"\n```';
             found.forEach( function(valor, found) {
                 text += valor + '\n';
             });
