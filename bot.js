@@ -1,7 +1,7 @@
 const { Client, MessageEmbed } = require('discord.js');
 const fs = require("fs");
 const client = new Client();
-const images = JSON.parse(fs.readFileSync("./7ds.json", "utf8"));
+const images = JSON.parse(fs.readFileSync("./database.json", "utf8"));
 
 var interval;
 var spamid = [];
@@ -28,12 +28,12 @@ client.on('message', message => {
     if (message.content.indexOf('!') === 0 && message.content.length > 3
        && message.author.id !== '313015439188033538') {
 
-        name = message.content.slice(1);
+        nombre = message.content.slice(1);
 
         var showImage = false;
-        if (name.startsWith("!")) {
+        if (nombre.startsWith("!")) {
             showImage = true;
-            name = name.slice(1);
+            nombre = nombre.slice(1);
         }
 
 
@@ -42,7 +42,7 @@ client.on('message', message => {
 
         Object.entries(images).forEach(([key, value]) => {
 
-            if (value['name'].toLowerCase().includes(name) || key.startsWith(name) ) {
+            if (value['name'].toLowerCase().includes(nombre) || key.startsWith(nombre) ) {
                 found.push( '!' + key + ' - [' + value['title'] + '] ' + value['name']);
                 tempEntry = key;
             }
@@ -53,7 +53,7 @@ client.on('message', message => {
         console.log('tempEntry: ' + tempEntry);
 
         if (found.length > 1) {
-            var text = 'Found ' + found.length + ' characters for "' + name + '"\n```';
+            var text = 'Found ' + found.length + ' characters for "' + nombre + '"\n```';
             found.forEach( function(valor, found) {
                 text += valor + '\n';
             });
@@ -63,43 +63,46 @@ client.on('message', message => {
 
         else if (found.length===1) {
 
-            title = images[tempEntry]['title'];
+            title = images[tempEntry]['fullname'];
             realname = images[tempEntry]['name'];
-            color = images[tempEntry]['color'];
+            color = images[tempEntry]['attribute'];
             number = images[tempEntry]['number'];
-            gears = images[tempEntry]['gears'];
+            gears = images[tempEntry]['stats'];
             substats = images[tempEntry]['substats'];
-            picture = 'https://rerollcdn.com/SDSGC/portraits/portrait_' + number + '.png';
-            pasives = images[tempEntry]['pasives'].split('||')[0];
-            extraText = '';
-            extra = '';
+            picture = 'https://raw.githubusercontent.com/CepiPerez/discord-7ds-bot/master/icons/' + number + '.png';
+            pasives = images[tempEntry]['passive']
+            grace = images[tempEntry]['grace']
+            commandment = images[tempEntry]['commandment']
+            reliq = images[tempEntry]['reliq']
 
-            if (demons.indexOf(realname.toLowerCase())>-1) {
-                extraText = 'Commandment';
-                extra = images[tempEntry]['pasives'].split('||')[1];
-            }
-
+            
             if (realname.length > 0) {
 
                 const embed = new MessageEmbed()
                 .setThumbnail(picture)
                 .setTitle(realname)
                 .setDescription(title + "\n")
-                .addField("Recommended gears", gears + "\n")
-                .addField("Recommended substats", substats + "\n")
-                .addField("Pasive", pasives + "\n");
+                .addField("Stats recomendados", gears + "\n")
+                .addField("Substats recomendados", substats + "\n")
+                .addField("Pasiva", pasives + "\n");
 
-                if (extraText!=='') {
-                    embed.addField(extraText, extra)
-                }
+                if (grace!=='')
+                    embed.addField('Gracia', grace)
+
+                if (commandment!=='')
+                    embed.addField('Mandamiento', commandment)
+
+                if (reliq!=='')
+                    embed.addField('Reliquia Sagrada', reliq)
+
 
                 if (showImage) {
-                    embed.setImage('https://raw.githubusercontent.com/CepiPerez/spammy/master/characters/' + number + '.png')
+                    embed.setImage('https://raw.githubusercontent.com/CepiPerez/spammy/master/images/' + number + '.png')
                 }
 
-                console.log('Images:');
-                console.log('https://rerollcdn.com/SDSGC/portraits/portrait_' + number + '.png');
-                console.log('https://raw.githubusercontent.com/CepiPerez/spammy/master/characters/' + number + '.png')
+                //console.log('Images:');
+                //console.log('https://rerollcdn.com/SDSGC/portraits/portrait_' + number + '.png');
+                //console.log('https://raw.githubusercontent.com/CepiPerez/spammy/master/characters/' + number + '.png')
 
                 embed.setFooter("© cepi");
 
