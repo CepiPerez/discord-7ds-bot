@@ -39,6 +39,7 @@ client.on('message', message => {
 
         var tempEntry = '';
         var found = [];
+        var exact = '';
 
         Object.entries(images).forEach(([key, value]) => {
 
@@ -46,13 +47,17 @@ client.on('message', message => {
                 found.push( '!' + key + ' - [' + value['fullname'] + '] ' + value['name']);
                 tempEntry = key;
             }
+            if (key.toLowerCase()===nombre.toLowerCase()){
+                exact = key;
+            }
 
         });
 
         console.log('found: ' + found.length);
         console.log('tempEntry: ' + tempEntry);
+        console.log('exactMatch: ' + exact);
 
-        if (found.length > 1 && found[0]!=nombre) {
+        if (found.length > 1 && exact==='') {
             var text = 'Se encontraron ' + found.length + ' personajes para "' + nombre + '"\n```';
             found.forEach( function(valor, found) {
                 text += valor + '\n';
@@ -61,8 +66,8 @@ client.on('message', message => {
             message.channel.send(text);
         }
 
-        else if (found.length===1) {
-
+        else if (found.length===1 || exact!='') {
+            if (exact!='') tempEntry = exact;
             title = images[tempEntry]['fullname'];
             realname = images[tempEntry]['name'];
             color = images[tempEntry]['attribute'];
@@ -97,7 +102,8 @@ client.on('message', message => {
 
 
                 if (showImage) {
-                    embed.setImage('https://raw.githubusercontent.com/CepiPerez/spammy/master/images/' + number + '.png')
+                    console.log("ADDING IMAGE: " + "https://raw.githubusercontent.com/CepiPerez/discord-7ds-bot/master/images/" + number + ".png")
+                    embed.setImage('https://raw.githubusercontent.com/CepiPerez/discord-7ds-bot/master/images/' + number + '.png')
                 }
 
                 //console.log('Images:');
