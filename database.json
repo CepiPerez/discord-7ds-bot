@@ -2,7 +2,7 @@
     "gmeliodas": {
         "number": "001",
         "name": "Meliodas",
-        "fullname": "Capitan Meliodas",
+        "fullname": "[Seven Deadly Sins] Capitan Meliodas",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque|Probabilidad Cr\u00edtica|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -11,10 +11,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "relihawk": {
+    "relizabeth": {
         "number": "002",
         "name": "Elizabeth",
-        "fullname": "Hawk y Elizabeth",
+        "fullname": "[Taverna Movil] Hawk y Elizabeth",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -26,7 +26,7 @@
     "rdiane": {
         "number": "003",
         "name": "Diane",
-        "fullname": "Luchadora Diane",
+        "fullname": "[Maestra de Kung-Fu] Luchadora Diane",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque Tasa de Perforaci\u00f3n|Probabilidad Cr\u00edtica|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -38,7 +38,7 @@
     "gban": {
         "number": "004",
         "name": "Ban",
-        "fullname": "Zorro Ban",
+        "fullname": "[Arrebatar] Zorro Ban",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -50,7 +50,7 @@
     "gking": {
         "number": "005",
         "name": "King",
-        "fullname": "King el Rey Hada",
+        "fullname": "[Guardian del Bosque] King el Rey Hada",
         "attribute": "PS",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Probabilidad Cr\u00edtica|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -62,7 +62,7 @@
     "bgowther": {
         "number": "006",
         "name": "Gowther",
-        "fullname": "Caballero Sagrado Gowther",
+        "fullname": "[Heroe de Liones] Caballero Sagrado Gowther",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -74,7 +74,7 @@
     "gmerlin": {
         "number": "007",
         "name": "Merlin",
-        "fullname": "Gran Hechicera Merlin",
+        "fullname": "[El Pecado de la Gula del Jabali] Gran Hechicera Merlin",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -86,7 +86,7 @@
     "bdiane": {
         "number": "008",
         "name": "Diane",
-        "fullname": "Luchadora Diane",
+        "fullname": "[Matrona] Luchadora Diane",
         "attribute": "Velocidad",
         "stats": "Ataque,rc",
         "substats": "Ataque,Defensa|Resistencia Cr\u00edtica,HP",
@@ -98,7 +98,7 @@
     "rgilthunder": {
         "number": "009",
         "name": "Gilthunder",
-        "fullname": "Guardian Gilthunder",
+        "fullname": "[Rayo Electrico] Guardian Gilthunder",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -110,7 +110,7 @@
     "rguila": {
         "number": "010",
         "name": "Guila",
-        "fullname": "Guardiana Guila",
+        "fullname": "[Explosion] Guardiana Guila",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -122,7 +122,7 @@
     "gjericho": {
         "number": "011",
         "name": "Jericho",
-        "fullname": "Guardiana Jericho",
+        "fullname": "[Caballero de la Velocidad] Guardiana Jericho",
         "attribute": "PS",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Probabilidad Cr\u00edtica|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -134,7 +134,7 @@
     "rhowzer": {
         "number": "012",
         "name": "Howzer",
-        "fullname": "Caballero Sagrado Howzer",
+        "fullname": "[Tempestad] Caballero Sagrado Howzer",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque Tasa de Perforaci\u00f3n,Defensa,HP",
@@ -146,7 +146,7 @@
     "ggriamore": {
         "number": "013",
         "name": "Griamore",
-        "fullname": "Guardian Griamore",
+        "fullname": "[Caballero del Muro de Hierro] Guardian Griamore",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -158,7 +158,7 @@
     "bhendrickson": {
         "number": "014",
         "name": "Hendrickson",
-        "fullname": "Capitan de los Caballeros Sagrados Hendrickson",
+        "fullname": "[Derretimiento] Capitan de los Caballeros Sagrados Hendrickson",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -170,7 +170,7 @@
     "bban": {
         "number": "015",
         "name": "Ban",
-        "fullname": "Zorro Ban",
+        "fullname": "[Forajido] Zorro Ban",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -182,7 +182,7 @@
     "gking2": {
         "number": "016",
         "name": "King",
-        "fullname": "King Adulto",
+        "fullname": "[Guardian de Peluches] King Adulto",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -194,7 +194,7 @@
     "bking": {
         "number": "017",
         "name": "King",
-        "fullname": "King Adulto",
+        "fullname": "[Seven Deadly Sins] King Adulto",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -206,7 +206,7 @@
     "ghelbram": {
         "number": "018",
         "name": "Helbram",
-        "fullname": "Hada Helbram",
+        "fullname": "[Guardian del Bosque] Hada Helbram",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -218,7 +218,7 @@
     "bslader": {
         "number": "019",
         "name": "Slader",
-        "fullname": "Cazador Slader",
+        "fullname": "[Dominacion] Cazador Slader",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Probabilidad Cr\u00edtica|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -227,10 +227,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "rmeliodas": {
+    "rdmeliodas": {
         "number": "020",
-        "name": "Meliodas",
-        "fullname": "Demonio Meliodas",
+        "name": "dMeliodas",
+        "fullname": "[El Pecado de la Ira del Dragon] Demonio Meliodas",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -242,7 +242,7 @@
     "bking2": {
         "number": "021",
         "name": "King",
-        "fullname": "King el Rey Hada",
+        "fullname": "[El Pecado de la Pereza del Oso] King el Rey Hada",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -254,7 +254,7 @@
     "rgowther": {
         "number": "022",
         "name": "Gowther",
-        "fullname": "Caballero Sagrado Gowther",
+        "fullname": "[El Pecado de la Lujuria de la Cabra] Caballero Sagrado Gowther",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -266,7 +266,7 @@
     "gban2": {
         "number": "023",
         "name": "Ban",
-        "fullname": "Aventurero Ban",
+        "fullname": "[El Pecado de la Codicia del Zorro] Aventurero Ban",
         "attribute": "PS",
         "stats": "",
         "substats": "Ataque,Defensa,HP",
@@ -278,7 +278,7 @@
     "bdiane2": {
         "number": "024",
         "name": "Diane",
-        "fullname": "Caballero Sagrado Diane",
+        "fullname": "[El Pecado de la Envidia de la Serpiente] Caballero Sagrado Diane",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -290,7 +290,7 @@
     "bmeliodas": {
         "number": "025",
         "name": "Meliodas",
-        "fullname": "Maestro Meliodas",
+        "fullname": "[Taverna Movil] Maestro Meliodas",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -299,10 +299,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "gelihawk": {
+    "gelizabeth": {
         "number": "026",
         "name": "Elizabeth",
-        "fullname": "Hawk y Elizabeth",
+        "fullname": "[Mascota] Hawk y Elizabeth",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque|Tasa de Perforaci\u00f3n,Defensa,HP",
@@ -314,7 +314,7 @@
     "rdiane2": {
         "number": "027",
         "name": "Diane",
-        "fullname": "Mercenaria Diane",
+        "fullname": "[Corazon de la Tierra] Mercenaria Diane",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque|Tasa de Perforaci\u00f3n,Defensa,HP",
@@ -326,10 +326,10 @@
     "rban": {
         "number": "028",
         "name": "Ban",
-        "fullname": "Prisionero Ban",
+        "fullname": "[No Muerto] Prisionero Ban",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
-        "substats": "Ataque,Defensa,HP",
+        "substats": "Ataque \r\n||||,Defensa,HP",
         "passive": "Aumenta en 30% la Tasa de Absorci\u00f3n de HP del h\u00e9roe al usar una habilidad cuando el HP del h\u00e9roe est\u00e1 por debajo del 50%.  (Se aplica antes de la activaci\u00f3n de las habilidades)",
         "grace": "",
         "commandment": "",
@@ -338,10 +338,10 @@
     "ggowther": {
         "number": "029",
         "name": "Gowther",
-        "fullname": "Joven Aldeano Gowther",
+        "fullname": "[Hombre Buscado] Joven Aldeano Gowther",
         "attribute": "PS",
         "stats": "HP,Defensa",
-        "substats": "Ataque,Defensa,HP",
+        "substats": "Ataque \r\n||||,Defensa,HP",
         "passive": "Reduce las habilidades relacionadas con la defensa de todos los enemigos en 15% en PvP.",
         "grace": "",
         "commandment": "",
@@ -350,10 +350,10 @@
     "bguila": {
         "number": "030",
         "name": "Guila",
-        "fullname": "Caballero Sagrado Guila",
+        "fullname": "[Estoque] Caballero Sagrado Guila",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
-        "substats": "Ataque,Defensa,HP",
+        "substats": "Ataque \r\n||||,Defensa,HP",
         "passive": "Rellena 1 orbe(s) del medidor de movimiento definitivo del h\u00e9roe al comienzo del turno de los aliados si el h\u00e9roe no recibe ning\u00fan da\u00f1o.",
         "grace": "",
         "commandment": "",
@@ -362,10 +362,10 @@
     "rjericho": {
         "number": "031",
         "name": "Jericho",
-        "fullname": "Caballero Sagrado Jericho",
+        "fullname": "[Aventurera] Caballero Sagrado Jericho",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
-        "substats": "Ataque,Defensa,HP",
+        "substats": "Ataque \r\n||||,Defensa,HP",
         "passive": "Aumenta las estad\u00edsticas relacionadas con el ataque en 10% a los aliados con atributo .",
         "grace": "",
         "commandment": "",
@@ -374,10 +374,10 @@
     "bjericho": {
         "number": "032",
         "name": "Jericho",
-        "fullname": "Caballero Sagrado Jericho",
+        "fullname": "[Nueva Generacion] Caballero Sagrado Jericho",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
-        "substats": "Ataque,Defensa,HP",
+        "substats": "Ataque \r\n||||,Defensa,HP",
         "passive": "Aumenta las estad\u00edsticas relacionadas con el ataque en 10% a los aliados con atributo .",
         "grace": "",
         "commandment": "",
@@ -386,10 +386,10 @@
     "ggilthunder": {
         "number": "033",
         "name": "Gilthunder",
-        "fullname": "Caballero Sagrado Gilthunder",
+        "fullname": "[Caballeroso] Caballero Sagrado Gilthunder",
         "attribute": "PS",
         "stats": "HP,Defensa",
-        "substats": "Ataque,Defensa,HP",
+        "substats": "Ataque \r\n||||,Defensa,HP",
         "passive": "Aumenta en 30% las estad\u00edsticas relacionadas con la defensa en PvP.",
         "grace": "",
         "commandment": "",
@@ -398,10 +398,10 @@
     "bgilthunder": {
         "number": "034",
         "name": "Gilthunder",
-        "fullname": "Caballero Sagrado Gilthunder",
+        "fullname": "[Estrella del Reino] Caballero Sagrado Gilthunder",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
-        "substats": "Ataque,Defensa,HP",
+        "substats": "Ataque \r\n||||,Defensa,HP",
         "passive": "Aumenta un 60% la defensa de los aliados de atributo .",
         "grace": "",
         "commandment": "",
@@ -410,7 +410,7 @@
     "ghowzer": {
         "number": "035",
         "name": "Howzer",
-        "fullname": "Caballero Sagrado Howzer",
+        "fullname": "[Realeza de Liones] Caballero Sagrado Howzer",
         "attribute": "PS",
         "stats": "HP,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -422,7 +422,7 @@
     "bhowzer": {
         "number": "036",
         "name": "Howzer",
-        "fullname": "Caballero Sagrado Howzer",
+        "fullname": "[La Estrella del Reino] Caballero Sagrado Howzer",
         "attribute": "Velocidad",
         "stats": "HP,rc",
         "substats": "Ataque,Defensa|Resistencia Cr\u00edtica,HP",
@@ -434,7 +434,7 @@
     "rgriamore": {
         "number": "037",
         "name": "Griamore",
-        "fullname": "Caballero Sagrado Griamore",
+        "fullname": "[Campeon] Caballero Sagrado Griamore",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -446,7 +446,7 @@
     "bgriamore": {
         "number": "038",
         "name": "Griamore",
-        "fullname": "Caballero Sagrado Griamore",
+        "fullname": "[Aventurero] Caballero Sagrado Griamore",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -458,7 +458,7 @@
     "rdreyfus": {
         "number": "039",
         "name": "Dreyfus",
-        "fullname": "Capitan de los Caballeros Sagrados Dreyfus",
+        "fullname": "[Presagio del Caos] Capitan de los Caballeros Sagrados Dreyfus",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -470,7 +470,7 @@
     "rslader": {
         "number": "040",
         "name": "Slader",
-        "fullname": "Capitan Slader",
+        "fullname": "[Rugidos del Alba] Capitan Slader",
         "attribute": "Fuerza",
         "stats": "pc,Defensa",
         "substats": "Probabilidad Cr\u00edtica,Defensa,HP",
@@ -482,7 +482,7 @@
     "bfreezia": {
         "number": "041",
         "name": "Freezia",
-        "fullname": "Caballero Sagrado Freezia",
+        "fullname": "[Colmillos Bizarros] Caballero Sagrado Freezia",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -494,7 +494,7 @@
     "gcain": {
         "number": "042",
         "name": "Cain",
-        "fullname": "Caballero de Danafor Cain",
+        "fullname": "[Llama Ardiente] Caballero de Danafor Cain",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -506,7 +506,7 @@
     "bweinheidt": {
         "number": "043",
         "name": "Weinheidt",
-        "fullname": "Caballero Sagrado Weinheidt",
+        "fullname": "[Rugidos del Alba] Caballero Sagrado Weinheidt",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque|Tasa de Perforaci\u00f3n,Defensa,HP",
@@ -518,7 +518,7 @@
     "gjillian": {
         "number": "044",
         "name": "Jillian",
-        "fullname": "Caballero Sagrado Jillian",
+        "fullname": "[Rugidos del Alba] Caballero Sagrado Jillian",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -530,7 +530,7 @@
     "galioni": {
         "number": "045",
         "name": "Alioni",
-        "fullname": "Miembro Alioni",
+        "fullname": "[Orden del Gato Montes] Miembro Alioni",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -542,7 +542,7 @@
     "rtwigo": {
         "number": "046",
         "name": "Twigo",
-        "fullname": "Aspirante a Caballero Sagrado Twigo",
+        "fullname": "[Confirmacion] Aspirante a Caballero Sagrado Twigo",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -554,7 +554,7 @@
     "bgolgius": {
         "number": "047",
         "name": "Golgius",
-        "fullname": "Caballero Sagrado Golgius",
+        "fullname": "[Colmillos Bizarros] Caballero Sagrado Golgius",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -566,7 +566,7 @@
     "gruin": {
         "number": "048",
         "name": "Ruin",
-        "fullname": "Caballero Sagrado Ruin",
+        "fullname": "[Colmillos Bizarros] Caballero Sagrado Ruin",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -578,7 +578,7 @@
     "rjude": {
         "number": "049",
         "name": "Jude",
-        "fullname": "Caballero Sagrado Jude",
+        "fullname": "[Colmillos Bizarros] Caballero Sagrado Jude",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -590,7 +590,7 @@
     "bmarmas": {
         "number": "050",
         "name": "Marmas",
-        "fullname": "Caballero Sagrado Marmas",
+        "fullname": "[Boom Boom Pow] Caballero Sagrado Marmas",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -602,7 +602,7 @@
     "rsimon": {
         "number": "051",
         "name": "Simon",
-        "fullname": "Caballero Sagrado Simon",
+        "fullname": "[Rugidos del Alba] Caballero Sagrado Simon",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque Tasa de Perforaci\u00f3n|Probabilidad Cr\u00edtica|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -614,7 +614,7 @@
     "ghugo": {
         "number": "052",
         "name": "Hugo",
-        "fullname": "Caballero Sagrado Hugo",
+        "fullname": "[Rugidos del Alba] Caballero Sagrado Hugo",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -626,7 +626,7 @@
     "rtaizoo": {
         "number": "053",
         "name": "Taizoo",
-        "fullname": "Campeon Taizoo",
+        "fullname": "[Festival de Lucha de Vaizel] Campeon Taizoo",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -635,10 +635,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "relizabeth": {
+    "relizabeth2": {
         "number": "054",
         "name": "Elizabeth",
-        "fullname": "Mesera Elizabeth",
+        "fullname": "[Boar Hat] Mesera Elizabeth",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -647,10 +647,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "gelizabeth": {
+    "gelizabeth2": {
         "number": "055",
         "name": "Elizabeth",
-        "fullname": "Princesa Elizabeth",
+        "fullname": "[Liones] Princesa Elizabeth",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -662,7 +662,7 @@
     "rmerlin": {
         "number": "056",
         "name": "Merlin",
-        "fullname": "Gran Hechicera Merlin",
+        "fullname": "[Coleccionista] Gran Hechicera Merlin",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque Tasa de Perforaci\u00f3n,Defensa,HP",
@@ -674,7 +674,7 @@
     "rhelbram": {
         "number": "057",
         "name": "Helbram",
-        "fullname": "Hada Helbram",
+        "fullname": "[Reencarnacion de la Venganza] Hada Helbram",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -686,7 +686,7 @@
     "ghendricksen": {
         "number": "058",
         "name": "Hendricksen",
-        "fullname": "Druida Hendrickson",
+        "fullname": "[Presagio del Caos] Druida Hendrickson",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -698,7 +698,7 @@
     "gdreyfus": {
         "number": "059",
         "name": "Dreyfus",
-        "fullname": "Capitan de los Caballeros Sagrados Dreyfus",
+        "fullname": "[Rotura] Capitan de los Caballeros Sagrados Dreyfus",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -710,7 +710,7 @@
     "ggustav": {
         "number": "060",
         "name": "Gustav",
-        "fullname": "Caballero Sagrado Gustav",
+        "fullname": "[Caballero del Hielo] Caballero Sagrado Gustav",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -719,10 +719,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "belihawk": {
+    "belizabeth": {
         "number": "061",
         "name": "Elizabeth",
-        "fullname": "Guardian Hawk y Elizabeth",
+        "fullname": "[Reverso] Guardian Hawk y Elizabeth",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -734,7 +734,7 @@
     "grimuru": {
         "number": "062",
         "name": "Rimuru",
-        "fullname": "Rimuru Tempest",
+        "fullname": "[Slime] Rimuru Tempest",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -746,7 +746,7 @@
     "brimuru": {
         "number": "063",
         "name": "Rimuru",
-        "fullname": "Rimuru Tempest",
+        "fullname": "[Lider de los Monstruos] Rimuru Tempest",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -758,7 +758,7 @@
     "rbenimaru": {
         "number": "064",
         "name": "Benimaru",
-        "fullname": "Benimaru",
+        "fullname": "[Kijin] Benimaru",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -770,7 +770,7 @@
     "bmilim": {
         "number": "065",
         "name": "Milim",
-        "fullname": "Milim",
+        "fullname": "[Tirana de la Destruccion] Milim",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -782,7 +782,7 @@
     "glillia": {
         "number": "066",
         "name": "Lillia",
-        "fullname": "Hechicera Lillia",
+        "fullname": "[Caos] Hechicera Lillia",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -794,7 +794,7 @@
     "gelaine": {
         "number": "067",
         "name": "Elaine",
-        "fullname": "Guardiana Elaine",
+        "fullname": "[Bosque del Rey Hada] Guardiana Elaine",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -806,7 +806,7 @@
     "rarturo": {
         "number": "068",
         "name": "Arturo",
-        "fullname": "Nuevo Rey Arturo",
+        "fullname": "[Espada de Camelot] Nuevo Rey Arturo",
         "attribute": "Fuerza",
         "stats": "HP,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -818,7 +818,7 @@
     "bgaland": {
         "number": "069",
         "name": "Galand",
-        "fullname": "Galand de la Verdad",
+        "fullname": "[Los 10 Mandamientos] Galand de la Verdad",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -830,7 +830,7 @@
     "barturo": {
         "number": "070",
         "name": "Arturo",
-        "fullname": "Aventurero Arturo",
+        "fullname": "[Rey de las Profecias] Aventurero Arturo",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -839,10 +839,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "belizabeth": {
+    "belizabeth2": {
         "number": "071",
         "name": "Elizabeth",
-        "fullname": "Princesa Elizabeth",
+        "fullname": "[Una Nueva Aventura] Princesa Elizabeth",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -854,7 +854,7 @@
     "rban2": {
         "number": "072",
         "name": "Ban",
-        "fullname": "Aventurero Ban",
+        "fullname": "[Baston de 3 Secciones] Aventurero Ban",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -866,7 +866,7 @@
     "gescanor": {
         "number": "073",
         "name": "Escanor",
-        "fullname": "Caballero Sagrado Escanor",
+        "fullname": "[Luz Solar] Caballero Sagrado Escanor",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -878,7 +878,7 @@
     "gdiane": {
         "number": "074",
         "name": "Diane",
-        "fullname": "Luchadora Diane",
+        "fullname": "[Creacion] Luchadora Diane",
         "attribute": "PS",
         "stats": "Defensa,Defensa,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -890,7 +890,7 @@
     "rvivian": {
         "number": "075",
         "name": "Vivian",
-        "fullname": "Maga Vivian",
+        "fullname": "[Reencarnacion de la Obsesion] Maga Vivian",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -899,10 +899,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "rmeliodas2": {
+    "hwmeliodas": {
         "number": "076",
-        "name": "Meliodas",
-        "fullname": "Capitan Meliodas",
+        "name": "hwMeliodas",
+        "fullname": "[Halloween] Capitan Meliodas",
         "attribute": "Fuerza",
         "stats": "HP,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Probabilidad Cr\u00edtica|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -911,10 +911,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "belaine": {
+    "hwelaine": {
         "number": "077",
-        "name": "Elaine",
-        "fullname": "Guardiana Elaine",
+        "name": "hwElaine",
+        "fullname": "[Halloween] Guardiana Elaine",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -923,10 +923,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "gguila": {
+    "hwguila": {
         "number": "078",
-        "name": "Guila",
-        "fullname": "Guardiana Guila",
+        "name": "hwGuila",
+        "fullname": "[Halloween] Guardiana Guila",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -938,7 +938,7 @@
     "blillia": {
         "number": "079",
         "name": "Lillia",
-        "fullname": "Hechicera Lillia",
+        "fullname": "[Mente Privilegiada] Hechicera Lillia",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque Perforaci\u00f3n,Defensa,HP",
@@ -950,7 +950,7 @@
     "rmonspeet": {
         "number": "080",
         "name": "Monspeet",
-        "fullname": "Monspeet de la Reticencia",
+        "fullname": "[Los 10 Mandamientos] Monspeet de la Reticencia",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -959,10 +959,10 @@
         "commandment": "Evita que los medidores de movimiento definitivo se rellenen mediante el uso de habilidades en PvP.  (Se aplica tanto a aliados como enemigos al entrar en la batalla).",
         "reliq": ""
     },
-    "bmeliodas2": {
+    "bdmeliodas": {
         "number": "081",
-        "name": "Meliodas",
-        "fullname": "Demonio Meliodas",
+        "name": "dMeliodas",
+        "fullname": "[Caballero de la Ira] Demonio Meliodas",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque Perforaci\u00f3n,Defensa,HP",
@@ -974,7 +974,7 @@
     "gdeathpierce": {
         "number": "082",
         "name": "Deathpierce",
-        "fullname": "Caballero Sagrado Deathpierce",
+        "fullname": "[Las Pleyades del Cielo Azul] Caballero Sagrado Deathpierce",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -986,7 +986,7 @@
     "rdogedo": {
         "number": "083",
         "name": "Dogedo",
-        "fullname": "Caballero Sagrado Dogedo",
+        "fullname": "[Las Pleyades del Cielo Azul] Caballero Sagrado Dogedo",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -998,7 +998,7 @@
     "bmelascula": {
         "number": "084",
         "name": "Melascula",
-        "fullname": "Melascula de la Fe",
+        "fullname": "[Los 10 Mandamientos] Melascula de la Fe",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1010,7 +1010,7 @@
     "rking": {
         "number": "085",
         "name": "King",
-        "fullname": "King Adulto",
+        "fullname": "[Desastre] King Adulto",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1022,7 +1022,7 @@
     "gvalenty": {
         "number": "086",
         "name": "Valenty",
-        "fullname": "Investigadora de Armas Valenty",
+        "fullname": "[Agitadora Terrestre] Investigadora de Armas Valenty",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa|Resistencia,HP",
@@ -1034,7 +1034,7 @@
     "bmerlin": {
         "number": "087",
         "name": "Merlin",
-        "fullname": "Gran Hechicera Merlin",
+        "fullname": "[Infinito] Gran Hechicera Merlin",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1046,7 +1046,7 @@
     "ggloxinia": {
         "number": "088",
         "name": "Gloxinia",
-        "fullname": "Gloxinia del Reposo",
+        "fullname": "[Los 10 Mandamientos] Gloxinia del Reposo",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1058,7 +1058,7 @@
     "rdeldry": {
         "number": "089",
         "name": "Deldry",
-        "fullname": "Caballero Sagrado Deldry",
+        "fullname": "[Las Pleyades del Cielo Azul] Caballero Sagrado Deldry",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1070,7 +1070,7 @@
     "barden": {
         "number": "090",
         "name": "Arden",
-        "fullname": "Caballero Sagrado Arden",
+        "fullname": "[Las Pleyades del Cielo Azul] Caballero Sagrado Arden",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1082,7 +1082,7 @@
     "gdiane2": {
         "number": "091",
         "name": "Diane",
-        "fullname": "Caballero Sagrado Diane",
+        "fullname": "[Seven Deadly Sins] Caballero Sagrado Diane",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1094,7 +1094,7 @@
     "bban2": {
         "number": "092",
         "name": "Ban",
-        "fullname": "Aventurero Ban",
+        "fullname": "[Coleccionista de Cervezas] Aventurero Ban",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1106,7 +1106,7 @@
     "rellatte": {
         "number": "093",
         "name": "Ellatte",
-        "fullname": "La Celestial Ellatte",
+        "fullname": "[Alas Celestiales] La Celestial Ellatte",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1115,10 +1115,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "gmeliodas2": {
+    "gdmeliodas": {
         "number": "094",
-        "name": "Meliodas",
-        "fullname": "Demonio Meliodas",
+        "name": "dMeliodas",
+        "fullname": "[Nueva Leyenda] Demonio Meliodas",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1127,10 +1127,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "relizabeth2": {
+    "relizabeth3": {
         "number": "095",
         "name": "Elizabeth",
-        "fullname": "Princesa Elizabeth",
+        "fullname": "[Nueva Leyenda] Princesa Elizabeth",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1142,7 +1142,7 @@
     "bjericho2": {
         "number": "096",
         "name": "Jericho",
-        "fullname": "Guardian Jericho",
+        "fullname": "[Nueva Leyenda] Guardian Jericho",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -1154,7 +1154,7 @@
     "rescanor": {
         "number": "097",
         "name": "Escanor",
-        "fullname": "Caballero Sagrado Escanor",
+        "fullname": "[El Pecado del Orgullo del Leon] Caballero Sagrado Escanor",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1166,7 +1166,7 @@
     "bbellion": {
         "number": "098",
         "name": "Bellion",
-        "fullname": "Capitan Bellion",
+        "fullname": "[Los Seis Caballeros Negros] Capitan Bellion",
         "attribute": "Velocidad",
         "stats": "",
         "substats": "Ataque,Defensa,HP",
@@ -1178,7 +1178,7 @@
     "rking2": {
         "number": "099",
         "name": "King",
-        "fullname": "King el Rey Hada",
+        "fullname": "[Harlequin] King el Rey Hada",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1190,7 +1190,7 @@
     "restarossa": {
         "number": 100,
         "name": "Estarossa",
-        "fullname": "Estarossa del Amor",
+        "fullname": "[Los 10 Mandamientos] Estarossa del Amor",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1202,7 +1202,7 @@
     "gestarossa": {
         "number": 101,
         "name": "Estarossa",
-        "fullname": "Estarossa del Amor",
+        "fullname": "[Demonio de \u00c9lite] Estarossa del Amor",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1214,7 +1214,7 @@
     "bjenna": {
         "number": 102,
         "name": "Jenna",
-        "fullname": "Druida Jenna",
+        "fullname": "[Dulce Tentacion] Druida Jenna",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1226,7 +1226,7 @@
     "relaine": {
         "number": 103,
         "name": "Elaine",
-        "fullname": "Guardiana Elaine",
+        "fullname": "[Dulce Tentacion] Guardiana Elaine",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1238,7 +1238,7 @@
     "gzaneri": {
         "number": 104,
         "name": "Zaneri",
-        "fullname": "Druida Zaneri",
+        "fullname": "[Dulce Tentacion] Druida Zaneri",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1250,7 +1250,7 @@
     "gderieri": {
         "number": 105,
         "name": "Derieri",
-        "fullname": "Derieri de la Pureza",
+        "fullname": "[Demonio de \u00c9lite] Derieri de la Pureza",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1262,7 +1262,7 @@
     "rderieri": {
         "number": 106,
         "name": "Derieri",
-        "fullname": "Derieri de la Pureza",
+        "fullname": "[Los 10 Mandamientos] Derieri de la Pureza",
         "attribute": "Fuerza",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -1274,7 +1274,7 @@
     "rgaland": {
         "number": 107,
         "name": "Galand",
-        "fullname": "Galand de la Verdad",
+        "fullname": "[Demonio de \u00c9lite] Galand de la Verdad",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1286,7 +1286,7 @@
     "rmelascula": {
         "number": 108,
         "name": "Melascula",
-        "fullname": "Melascula de la Fe",
+        "fullname": "[Demonio de \u00c9lite] Melascula de la Fe",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1298,7 +1298,7 @@
     "beastin": {
         "number": 109,
         "name": "Eastin",
-        "fullname": "Noble Eastin",
+        "fullname": "[Lider de los Mares Tormentosos] Noble Eastin",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -1310,7 +1310,7 @@
     "rmono": {
         "number": 110,
         "name": "Mono",
-        "fullname": "Arma Humana Mono",
+        "fullname": "[Pastora de la Muerte] Arma Humana Mono",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1322,7 +1322,7 @@
     "barturo2": {
         "number": 111,
         "name": "Arturo",
-        "fullname": "Nuevo Rey Arturo",
+        "fullname": "[Heredero Predestinado] Nuevo Rey Arturo",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -1334,7 +1334,7 @@
     "gfraudrin": {
         "number": 112,
         "name": "Fraudrin",
-        "fullname": "Fraudrin del Desinteres",
+        "fullname": "[Los 10 Mandamientos] Fraudrin del Desinteres",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1343,10 +1343,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "rmeliodas3": {
+    "rlvmeliodas": {
         "number": 113,
-        "name": "Meliodas",
-        "fullname": "Meliodas Lostvayne",
+        "name": "lvMeliodas",
+        "fullname": "[Clones Virtuales] Meliodas Lostvayne",
         "attribute": "Fuerza",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -1358,7 +1358,7 @@
     "gmonspeet": {
         "number": 114,
         "name": "Monspeet",
-        "fullname": "Monspeet de la Reticencia",
+        "fullname": "[Demonio de \u00c9lite] Monspeet de la Reticencia",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1370,7 +1370,7 @@
     "bfraudrin": {
         "number": 115,
         "name": "Fraudrin",
-        "fullname": "Fraudrin del Desinteres",
+        "fullname": "[Demonio de \u00c9lite] Fraudrin del Desinteres",
         "attribute": "Velocidad",
         "stats": "",
         "substats": "Ataque,Defensa,HP",
@@ -1382,7 +1382,7 @@
     "rroxy": {
         "number": 116,
         "name": "Roxy",
-        "fullname": "Reina de las Explosiones Roxy",
+        "fullname": "[Destructora Desenfrenada] Reina de las Explosiones Roxy",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1394,7 +1394,7 @@
     "bhelbram": {
         "number": 117,
         "name": "Helbram",
-        "fullname": "Cardenal Helbram",
+        "fullname": "[Tirano Tuerto] Cardenal Helbram",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1406,7 +1406,7 @@
     "gzaratras": {
         "number": 118,
         "name": "Zaratras",
-        "fullname": "Capitan Zaratras",
+        "fullname": "[Reencarnacion de la Venganza] Capitan Zaratras",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1418,7 +1418,7 @@
     "bzeldris": {
         "number": 119,
         "name": "Zeldris",
-        "fullname": "Zeldris de la Piedad",
+        "fullname": "[Los 10 Mandamientos] Zeldris de la Piedad",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -1430,7 +1430,7 @@
     "rgloxinia": {
         "number": 120,
         "name": "Gloxinia",
-        "fullname": "Gloxinia del Reposo",
+        "fullname": "[Demonio de \u00c9lite] Gloxinia del Reposo",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1442,7 +1442,7 @@
     "gshin": {
         "number": 121,
         "name": "Shin",
-        "fullname": "Jugador Shin",
+        "fullname": "[Saqueador de Mazmorras] Jugador Shin",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1454,7 +1454,7 @@
     "bmatrona": {
         "number": 122,
         "name": "Matrona",
-        "fullname": "Mercenaria Matrona",
+        "fullname": "[Colmillo de la Tierra] Mercenaria Matrona",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1466,7 +1466,7 @@
     "ghawk": {
         "number": 123,
         "name": "Hawk",
-        "fullname": "Capitan Hawk",
+        "fullname": "[Orden de la Retirada de Sobras] Capitan Hawk",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1475,10 +1475,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "belizabeth2": {
+    "belizabeth3": {
         "number": 124,
         "name": "Elizabeth",
-        "fullname": "Diosa Elizabeth",
+        "fullname": "[Guerrera Sagrada] Diosa Elizabeth",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1490,7 +1490,7 @@
     "rzeldris": {
         "number": 125,
         "name": "Zeldris",
-        "fullname": "Zeldris de la Piedad",
+        "fullname": "[Demonio de \u00c9lite] Zeldris de la Piedad",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1502,7 +1502,7 @@
     "rdiane3": {
         "number": 126,
         "name": "Diane",
-        "fullname": "Caballero Sagrado Diane",
+        "fullname": "[Promesa Eterna] Caballero Sagrado Diane",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1514,7 +1514,7 @@
     "gdrole": {
         "number": 127,
         "name": "Drole",
-        "fullname": "Drole de la Paciencia",
+        "fullname": "[Los 10 Mandamientos] Drole de la Paciencia",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1526,7 +1526,7 @@
     "beren": {
         "number": 128,
         "name": "Eren",
-        "fullname": "Eren Jaeger",
+        "fullname": "[Unidad de Instruccion] Eren Jaeger",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1538,7 +1538,7 @@
     "geren": {
         "number": 129,
         "name": "Eren",
-        "fullname": "Eren Jaeger",
+        "fullname": "[Titan] Eren Jaeger",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1550,7 +1550,7 @@
     "bmikasa": {
         "number": 130,
         "name": "Mikasa",
-        "fullname": "Mikasa Ackerman",
+        "fullname": "[Gran Soldado] Mikasa Ackerman",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1562,7 +1562,7 @@
     "rlevi": {
         "number": 131,
         "name": "Levi",
-        "fullname": "Levi",
+        "fullname": "[Gran Soldado] Levi",
         "attribute": "Fuerza",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Probabilidad Cr\u00edtica|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -1574,7 +1574,7 @@
     "bvalenty": {
         "number": 132,
         "name": "Valenty",
-        "fullname": "Investigadora de Armas Valenty",
+        "fullname": "[Vacaciones Bajo el Sol] Investigadora de Armas Valenty",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1586,7 +1586,7 @@
     "geastin": {
         "number": 133,
         "name": "Eastin",
-        "fullname": "Noble Eastin",
+        "fullname": "[Vacaciones Bajo el Sol] Noble Eastin",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1598,7 +1598,7 @@
     "bdrole": {
         "number": 134,
         "name": "Drole",
-        "fullname": "Drole de la Paciencia",
+        "fullname": "[Demonio de \u00c9lite] Drole de la Paciencia",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1610,7 +1610,7 @@
     "ggerheade": {
         "number": 135,
         "name": "Gerheade",
-        "fullname": "Consejera Gerheade",
+        "fullname": "[3,000 A\u00f1os de Recuerdos] Consejera Gerheade",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1622,7 +1622,7 @@
     "bludociel": {
         "number": 136,
         "name": "Ludociel",
-        "fullname": "Ludociel del Destello",
+        "fullname": "[Los 4 Arcangeles] Ludociel del Destello",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1634,7 +1634,7 @@
     "rcamila": {
         "number": 137,
         "name": "Camila",
-        "fullname": "Deidad Guardiana Camila",
+        "fullname": "[Ejecutora de la Oscuridad] Deidad Guardiana Camila",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1646,7 +1646,7 @@
     "bhelbram2": {
         "number": 138,
         "name": "Helbram",
-        "fullname": "Hada Helbram",
+        "fullname": "[Realeza] Hada Helbram",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1658,7 +1658,7 @@
     "bwaillo": {
         "number": 139,
         "name": "Waillo",
-        "fullname": "Caballero Sagrado Waillo",
+        "fullname": "[Las Pleyades del Cielo Azul] Caballero Sagrado Waillo",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1670,7 +1670,7 @@
     "ghendrickson": {
         "number": 140,
         "name": "Hendrickson",
-        "fullname": "Demonio Hendrickson",
+        "fullname": "[Deseo Ceniciento] Demonio Hendrickson",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1682,7 +1682,7 @@
     "bking3": {
         "number": 141,
         "name": "King",
-        "fullname": "King con Alas Nuevas",
+        "fullname": "[Indicios de Madurez] King con Alas Nuevas",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -1694,7 +1694,7 @@
     "bmono": {
         "number": 142,
         "name": "Mono",
-        "fullname": "Arma Humana Mono",
+        "fullname": "[Origen de la Destruccion] Arma Humana Mono",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1706,7 +1706,7 @@
     "rlilia": {
         "number": 143,
         "name": "Lilia",
-        "fullname": "Lillia del Deseo",
+        "fullname": "[Origen de la Destruccion] Lillia del Deseo",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1718,7 +1718,7 @@
     "bmai": {
         "number": 144,
         "name": "Mai",
-        "fullname": "Mai Shiranui",
+        "fullname": "[KOF '98] Mai Shiranui",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1730,7 +1730,7 @@
     "gathena": {
         "number": 145,
         "name": "Athena",
-        "fullname": "Asamiya Athena",
+        "fullname": "[KOF '98] Asamiya Athena",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1742,7 +1742,7 @@
     "rkyo": {
         "number": 146,
         "name": "Kyo",
-        "fullname": "Kyo Kusanagi",
+        "fullname": "[KOF '98] Kyo Kusanagi",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1754,7 +1754,7 @@
     "grugal": {
         "number": 147,
         "name": "Rugal",
-        "fullname": "Omega Rugal",
+        "fullname": "[KOF '98] Omega Rugal",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1763,10 +1763,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "rshin": {
+    "hwshin": {
         "number": 148,
-        "name": "Shin",
-        "fullname": "Jugador Shin",
+        "name": "hwShin",
+        "fullname": "[Halloween] Jugador Shin",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1775,10 +1775,10 @@
         "commandment": "",
         "reliq": "El da\u00f1o que inflige el h\u00e9roe aumenta en 50% cuando ataca a un enemigo con un efecto de desventaja."
     },
-    "groxy": {
+    "hwroxy": {
         "number": 149,
-        "name": "Roxy",
-        "fullname": "Reina de las Explosiones Roxy",
+        "name": "hwRoxy",
+        "fullname": "[Halloween] Reina de las Explosiones Roxy",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1787,10 +1787,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "ggowther2": {
+    "hwgowther": {
         "number": 150,
-        "name": "Gowther",
-        "fullname": "Caballero Sagrado Gowther",
+        "name": "hwGowther",
+        "fullname": "[Halloween] Caballero Sagrado Gowther",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1802,7 +1802,7 @@
     "rsariel": {
         "number": 151,
         "name": "Sariel",
-        "fullname": "Sariel del Tornado",
+        "fullname": "[Los 4 Arcangeles] Sariel del Tornado",
         "attribute": "Fuerza",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -1814,7 +1814,7 @@
     "btarmiel": {
         "number": 152,
         "name": "Tarmiel",
-        "fullname": "Tarmiel del Oceano",
+        "fullname": "[Los 4 Arcangeles] Tarmiel del Oceano",
         "attribute": "Velocidad",
         "stats": "Defensa,Defensa,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1826,7 +1826,7 @@
     "rjericho2": {
         "number": 153,
         "name": "Jericho",
-        "fullname": "Guardiana Jericho",
+        "fullname": "[Caballero de la Nieve] Guardiana Jericho",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1838,7 +1838,7 @@
     "garturo": {
         "number": 154,
         "name": "Arturo",
-        "fullname": "Nuevo Rey Arturo",
+        "fullname": "[Luz de Esperanza] Nuevo Rey Arturo",
         "attribute": "PS",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -1850,7 +1850,7 @@
     "bescanor": {
         "number": 155,
         "name": "Escanor",
-        "fullname": "Escanor \"El \u00danico\"",
+        "fullname": "[Avatar Invencible] Escanor \"El \u00danico\"",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -1862,7 +1862,7 @@
     "relaine2": {
         "number": 156,
         "name": "Elaine",
-        "fullname": "Elaine de Alas Doradas",
+        "fullname": "[Hada de las Bendiciones] Elaine de Alas Doradas",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1874,7 +1874,7 @@
     "gliz": {
         "number": 157,
         "name": "Liz",
-        "fullname": "Caballero de Danafor Liz",
+        "fullname": "[Fragmento de Memoria] Caballero de Danafor Liz",
         "attribute": "PS",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -1883,10 +1883,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "gmeliodas3": {
+    "gmeliodas2": {
         "number": 158,
         "name": "Meliodas",
-        "fullname": "Meliodas Berserker",
+        "fullname": "[Modo Asalto] Meliodas Berserker",
         "attribute": "PS",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -1898,7 +1898,7 @@
     "bnanashi": {
         "number": 159,
         "name": "Nanashi",
-        "fullname": "Nanashi Espadachin Extranjero",
+        "fullname": "[Espada Rapida] Nanashi Espadachin Extranjero",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1910,7 +1910,7 @@
     "reastin": {
         "number": 160,
         "name": "Eastin",
-        "fullname": "Noble Eastin",
+        "fullname": "[Armonizadora Oceanica] Noble Eastin",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1922,7 +1922,7 @@
     "gvalenty2": {
         "number": 161,
         "name": "Valenty",
-        "fullname": "Valenty de la Obsesion",
+        "fullname": "[Arma Magica MK-II] Valenty de la Obsesion",
         "attribute": "PS",
         "stats": "Ataque,rc",
         "substats": "Ataque,Defensa|Resistencia Cr\u00edtica,HP",
@@ -1934,7 +1934,7 @@
     "bderieri": {
         "number": 162,
         "name": "Derieri",
-        "fullname": "Derieri de la Pureza",
+        "fullname": "[Dulce Tentacion] Derieri de la Pureza",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1946,7 +1946,7 @@
     "rdenzel": {
         "number": 163,
         "name": "Denzel",
-        "fullname": "Capitan Denzel",
+        "fullname": "[Las Pleyades del Cielo Azul] Capitan Denzel",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1958,7 +1958,7 @@
     "gmerlin2": {
         "number": 164,
         "name": "Merlin",
-        "fullname": "Merlin, Hija de Belialuin",
+        "fullname": "[Proteccion Divina] Merlin, Hija de Belialuin",
         "attribute": "PS",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -1967,10 +1967,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "roslohawk": {
+    "roslo": {
         "number": 165,
-        "name": "Oslo & Hawk",
-        "fullname": "Oslo & Hawk",
+        "name": "Oslo",
+        "fullname": "[Orden de la Retirada de Sobras] Oslo & Hawk",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1982,7 +1982,7 @@
     "bbeatrice": {
         "number": 166,
         "name": "Beatrice",
-        "fullname": "Beatrice de la Biblioteca Prohibida",
+        "fullname": "[Re:ZERO] Beatrice de la Biblioteca Prohibida",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -1994,7 +1994,7 @@
     "gram": {
         "number": 167,
         "name": "Ram",
-        "fullname": "Doncella Gemela Ram",
+        "fullname": "[Re:ZERO] Doncella Gemela Ram",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2006,7 +2006,7 @@
     "rrem": {
         "number": 168,
         "name": "Rem",
-        "fullname": "Doncella Gemela Rem",
+        "fullname": "[Re:ZERO] Doncella Gemela Rem",
         "attribute": "Fuerza",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -2018,7 +2018,7 @@
     "bemilia": {
         "number": 169,
         "name": "Emilia",
-        "fullname": "Candidata Real Emilia",
+        "fullname": "[Re:ZERO] Candidata Real Emilia",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2030,7 +2030,7 @@
     "bchandler": {
         "number": 170,
         "name": "Chandler",
-        "fullname": "Hechicero Chandler",
+        "fullname": "[Diablo Pacificador] Hechicero Chandler",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2042,7 +2042,7 @@
     "gzeldris": {
         "number": 171,
         "name": "Zeldris",
-        "fullname": "Zeldris el Ejecutor",
+        "fullname": "[Asistente del Rey Demonio] Zeldris el Ejecutor",
         "attribute": "PS",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -2053,8 +2053,8 @@
     },
     "rjim": {
         "number": 172,
-        "name": "Jim Hoppers",
-        "fullname": "Jim Hoppers",
+        "name": "Jim",
+        "fullname": "[Stranger Things] Jim Hoppers",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2065,8 +2065,8 @@
     },
     "rmike": {
         "number": 173,
-        "name": "Mike Wheelers",
-        "fullname": "Mike Wheelers",
+        "name": "Mike",
+        "fullname": "[Stranger Things] Mike Wheelers",
         "attribute": "Fuerza",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2077,8 +2077,8 @@
     },
     "gwill": {
         "number": 174,
-        "name": "Will Byers",
-        "fullname": "Will Byers",
+        "name": "Will",
+        "fullname": "[Stranger Things] Will Byers",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2090,7 +2090,7 @@
     "bonce": {
         "number": 175,
         "name": "Once",
-        "fullname": "Once",
+        "fullname": "[Stranger Things] Once",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -2102,7 +2102,7 @@
     "rarturo2": {
         "number": 176,
         "name": "Arturo",
-        "fullname": "Arturo Excalibur",
+        "fullname": "[Rey Elegido] Arturo Excalibur",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2114,7 +2114,7 @@
     "rban3": {
         "number": 177,
         "name": "Ban",
-        "fullname": "Ban del Purgatorio",
+        "fullname": "[Regreso del Inmortal] Ban del Purgatorio",
         "attribute": "Fuerza",
         "stats": "HP,Da\u00f1o cr\u00edtico",
         "substats": "Probabilidad Cr\u00edtica|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -2123,10 +2123,10 @@
         "commandment": "",
         "reliq": "El HP M\u00c1X del h\u00e9roe aumenta en 15% cuando muere un aliado."
     },
-    "boslohawk": {
+    "boslo": {
         "number": 178,
-        "name": "Oslo & Hawk",
-        "fullname": "Oslo & Hawk",
+        "name": "Oslo",
+        "fullname": "[Grupo Genial] Oslo & Hawk",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2135,10 +2135,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "bmeliodas3": {
+    "blvmeliodas": {
         "number": 179,
-        "name": "Meliodas",
-        "fullname": "Meliodas Lostvayne",
+        "name": "lvMeliodas",
+        "fullname": "[Ragnarok] Meliodas Lostvayne",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -2150,7 +2150,7 @@
     "rsigurd": {
         "number": 180,
         "name": "Sigurd",
-        "fullname": "Principe Sigurd",
+        "fullname": "[Portador de Gram] Principe Sigurd",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2162,7 +2162,7 @@
     "gthonar": {
         "number": 181,
         "name": "Thonar",
-        "fullname": "Trotamundos Thonar",
+        "fullname": "[Guerrera de la Justicia] Trotamundos Thonar",
         "attribute": "PS",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2174,7 +2174,7 @@
     "broxy": {
         "number": 182,
         "name": "Roxy",
-        "fullname": "Reina de las Explosiones Roxy",
+        "fullname": "[Sol de Verano] Reina de las Explosiones Roxy",
         "attribute": "Velocidad",
         "stats": "Ataque,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2183,10 +2183,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "belihawk2": {
+    "belizabeth4": {
         "number": 183,
         "name": "Elizabeth",
-        "fullname": "Guardian Hawk y Elizabeth",
+        "fullname": "[Vibras de Verano] Guardian Hawk y Elizabeth",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2198,7 +2198,7 @@
     "bmerlin2": {
         "number": 184,
         "name": "Merlin",
-        "fullname": "Merlin, Buscadora de la Verdad",
+        "fullname": "[Chica Playera] Merlin, Buscadora de la Verdad",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -2210,7 +2210,7 @@
     "bludociel2": {
         "number": 185,
         "name": "Ludociel",
-        "fullname": "Ludociel, Pacto de Luz",
+        "fullname": "[Gracia del Destello] Ludociel, Pacto de Luz",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -2222,7 +2222,7 @@
     "bcusack": {
         "number": 186,
         "name": "Cusack",
-        "fullname": "Cusack, Espadachin Doble",
+        "fullname": "[Segador Dormilon] Cusack, Espadachin Doble",
         "attribute": "Velocidad",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque|Da\u00f1o Cr\u00edtico,Defensa,HP",
@@ -2234,7 +2234,7 @@
     "gdiane3": {
         "number": 187,
         "name": "Diane",
-        "fullname": "Bendicion de la Tierra Diane",
+        "fullname": "[Ragnarok] Bendicion de la Tierra Diane",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2246,7 +2246,7 @@
     "gbrunilda": {
         "number": 188,
         "name": "Brunilda",
-        "fullname": "Princesa Brunilda",
+        "fullname": "[Guardiana del Campo de Batalla] Princesa Brunilda",
         "attribute": "PS",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -2258,7 +2258,7 @@
     "reastin2": {
         "number": 189,
         "name": "Eastin",
-        "fullname": "Autoridad Eastin",
+        "fullname": "[Emperatriz del Oceano] Autoridad Eastin",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2270,7 +2270,7 @@
     "gmono": {
         "number": 190,
         "name": "Mono",
-        "fullname": "Arma Humana Mono",
+        "fullname": "[Espada de la Oscuridad] Arma Humana Mono",
         "attribute": "PS",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -2282,7 +2282,7 @@
     "bhowzer2": {
         "number": 191,
         "name": "Howzer",
-        "fullname": "Caballero Sagrado Howzer",
+        "fullname": "[Caballero de la Guerra Santa] Caballero Sagrado Howzer",
         "attribute": "Velocidad",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2291,10 +2291,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "ggowther3": {
+    "ggowther2": {
         "number": 192,
         "name": "Gowther",
-        "fullname": "Hijack Gowther",
+        "fullname": "[Corazon Recuperado] Hijack Gowther",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2306,7 +2306,7 @@
     "bgilthunder2": {
         "number": 193,
         "name": "Gilthunder",
-        "fullname": "Guardian Gilthunder",
+        "fullname": "[Caballero de la Guerra Santa] Guardian Gilthunder",
         "attribute": "Velocidad",
         "stats": "",
         "substats": ",,",
@@ -2315,10 +2315,10 @@
         "commandment": "",
         "reliq": "Aumenta un 4% la resistencia, la resistencia cr\u00edtica y la defensa cr\u00edtica por cada orbe en el medidor de movimiento definitivo del h\u00e9roe. Aumenta un 20% adicional si est\u00e1 al M\u00c1X."
     },
-    "rmatrona": {
+    "hwmatrona": {
         "number": 194,
-        "name": "Matrona",
-        "fullname": "Mercenaria Matrona",
+        "name": "hwMatrona",
+        "fullname": "[Halloween] Mercenaria Matrona",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2327,10 +2327,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "rslader2": {
+    "hwslader": {
         "number": 195,
-        "name": "Slader",
-        "fullname": "Cazador Slader",
+        "name": "hwSlader",
+        "fullname": "[Halloween] Cazador Slader",
         "attribute": "Fuerza",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2339,10 +2339,10 @@
         "commandment": "",
         "reliq": ""
     },
-    "gdiane4": {
+    "hwdiane": {
         "number": 196,
-        "name": "Diane",
-        "fullname": "Voluntad de Proteccion Diane",
+        "name": "hwDiane",
+        "fullname": "[Halloween] Voluntad de Proteccion Diane",
         "attribute": "PS",
         "stats": "HP,Defensa",
         "substats": "Ataque,Defensa,HP",
@@ -2353,8 +2353,8 @@
     },
     "rterry": {
         "number": 197,
-        "name": "Terry Bogard",
-        "fullname": "Terry Bogard",
+        "name": "Terry",
+        "fullname": "[KOF '98] Terry Bogard",
         "attribute": "Fuerza",
         "stats": "",
         "substats": ",,",
@@ -2365,8 +2365,8 @@
     },
     "giori": {
         "number": 198,
-        "name": "Iori Yagami",
-        "fullname": "Iori Yagami",
+        "name": "Iori",
+        "fullname": "[KOF '98] Iori Yagami",
         "attribute": "PS",
         "stats": "",
         "substats": ",,",
@@ -2378,7 +2378,7 @@
     "gmerlin3": {
         "number": 199,
         "name": "Merlin",
-        "fullname": "Merlin, Buscadora de la Verdad",
+        "fullname": "[Ragnarok] Merlin, Buscadora de la Verdad",
         "attribute": "PS",
         "stats": "Ataque,Da\u00f1o cr\u00edtico",
         "substats": "Ataque,Defensa,HP",
@@ -2390,7 +2390,7 @@
     "bmegelda": {
         "number": 200,
         "name": "Megelda",
-        "fullname": "Valquiria Megelda",
+        "fullname": "[Guia del Valhalla] Valquiria Megelda",
         "attribute": "Velocidad",
         "stats": "",
         "substats": ",,",

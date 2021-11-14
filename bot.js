@@ -3,19 +3,9 @@ const fs = require("fs");
 const client = new Client();
 const images = JSON.parse(fs.readFileSync("./database.json", "utf8"));
 
-var interval;
-var spamid = [];
-var infoid = [];
-var aliveid = [];
-var curr = 0;
-var testchannel = "445716496526606336";
-var count = 0;
-var acurr = 0;
-var demons = ['melascula', 'drole', 'zeldris', 'galland', 'gloxinia', 'estarossa', 'monspeet', 'derieri']
-
 client.on('ready', () => {
     console.log('I am ready!');
-    client.user.setUsername("Test bot");
+    client.user.setUsername("Hawk");
     //timer = setTimeout(step, interval);
 });
 
