@@ -1,3 +1,4 @@
 node_modules/
+scrapper.php
 package-lock.json
 .env
