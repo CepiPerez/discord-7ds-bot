@@ -109,7 +109,7 @@ client.on('message', message => {
         var found = [];
         var foundwithnum = [];
         var exact = '';
-        var val = 1;
+        var val = 0;
         var reacts = [];
 
         Object.entries(database).forEach(([key, value]) => {
