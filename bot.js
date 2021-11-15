@@ -6,7 +6,7 @@ const reactions = ['1️⃣','2️⃣','3️⃣','4️⃣','5️⃣','6️⃣','
 '🇭','🇮','🇯','🇯','🇰','🇱','🇲','🇳','🇴','🇵','🇶','🇷','🇸','🇹','🇺','🇻','🇼','🇽','🇾','🇿'];
 
 
-function sendMessage(message, tempEntry, showImage)
+function sendMessage(message, tempEntry, showImage, showExtended)
 {
     console.log("Processing " + tempEntry);
     title = database[tempEntry]['fullname'].split('] ')[1];
@@ -20,6 +20,8 @@ function sendMessage(message, tempEntry, showImage)
     grace = database[tempEntry]['grace']
     commandment = database[tempEntry]['commandment']
     reliq = database[tempEntry]['reliq']
+    skills = database[tempEntry]['skill1'] + "\n\n" + database[tempEntry]['skill2']
+    ultimate = database[tempEntry]['ultimate']
 
     var color = '#1a5fb4';
     if (database[tempEntry]['attribute']==='Fuerza')
@@ -36,8 +38,14 @@ function sendMessage(message, tempEntry, showImage)
         .setTitle(realname + "\n" + title)
         .setDescription(" \n")
         .addField("Stats recomendados", gears + "\n")
-        .addField("Substats recomendados", substats + "\n")
-        .addField("Pasiva", pasives + "\n");
+        .addField("Substats recomendados", substats + "\n");
+
+        if (showExtended) {
+            embed.addField("Habilidades", skills + "\n")
+            embed.addField("Movimiento definitivo", ultimate + "\n")
+        }
+
+        embed.addField("Pasiva", pasives + "\n");
 
         if (grace!=='')
             embed.addField('Gracia', grace)
@@ -93,6 +101,12 @@ client.on('message', message => {
             nombre = nombre.slice(1);
         }
 
+        var showExtended = false;
+        if (nombre.endsWith("+")) {
+            showExtended = true;
+            nombre = nombre.slice(0, - 1);
+        }
+
 
         var numeral = nombre.substr(nombre.length - 1);
         if (isNaN(numeral)) {
@@ -117,7 +131,8 @@ client.on('message', message => {
             if (value['fullname'].toLowerCase().includes(nombre) || 
                 key.includes(nombre))
             {
-                found.push( reactions[val] + ' !' + key + ' - ' + value['fullname']);
+                found.push( '!' + key + ' - ' + value['fullname']);
+                //found.push( reactions[val] + ' !' + key + ' - ' + value['fullname']);
                 reacts[reactions[val]] = key;
                 ++val;
                 tempEntry = key;
@@ -138,14 +153,14 @@ client.on('message', message => {
         console.log('exactMatch: ' + exact);
 
         if (found.length>1 && exact==='' && foundwithnum.length!=1) {
-            var text = 'Se encontraron ' + found.length + ' personajes para "' + nombre + '"\n';
+            var text = 'Se encontraron ' + found.length + ' personajes para "' + nombre + '"\n```';
             found.forEach( function(valor, found) {
                 text += valor + '\n';
             });
-            text += '\n';
-            //text += '```';
+            //text += '\n';
+            text += '```';
             message.channel.send(text)
-            .then(sentEmbed => {
+            /* .then(sentEmbed => {
 
                 const filter = (user) => {
                     return user.id === '313015439188033538';
@@ -162,7 +177,7 @@ client.on('message', message => {
                     .catch(collected => {
                         console.log(`After a minute, only ${collected.size} out of 4 reacted.`);
                 });
-            });
+            }) */;
             
             
 
@@ -172,7 +187,7 @@ client.on('message', message => {
         else if (found.length===1 || foundwithnum.length===1 || exact!='') {
             if (exact!='') tempEntry = exact;
             
-            sendMessage(message, tempEntry, showImage);
+            sendMessage(message, tempEntry, showImage, showExtended);
 
         }
 
