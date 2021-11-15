@@ -146,9 +146,6 @@ client.on('message', message => {
             //text += '```';
             message.channel.send(text)
             .then(sentEmbed => {
-                /* for (var key in reacts) {
-                    sentEmbed.react(key)
-                }; */
 
                 const filter = (user) => {
                     return user.id === '313015439188033538';
