@@ -1,4 +1,5 @@
 node_modules/
+pages/
 scrapper.php
 package-lock.json
 .env
