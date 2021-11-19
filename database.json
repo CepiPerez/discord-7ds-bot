@@ -589,7 +589,7 @@
         "name": "Slader",
         "fullname": "[Rugidos del Alba] Capitan Slader",
         "attribute": "Fuerza",
-        "stats": "pc - Defensa",
+        "stats": "Probabilidad cr\u00edtica - Defensa",
         "substats": "Probabilidad Cr\u00edtica - Defensa - HP",
         "passive": "Reduce la resistencia cr\u00edtica de todos los enemigos por el valor de la probabilidad cr\u00edtica del h\u00e9roe al comienzo de la batalla.  (Se aplica al entrar en la batalla).",
         "grace": "",
